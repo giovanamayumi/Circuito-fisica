@@ -1,6 +1,6 @@
 # Circuito-fisica
 
-# Solucionador de Circuitos - Problema 71 (Halliday Vol. 3)
+Problema 71
 
 Este projeto consiste em uma aplicação desktop desenvolvida em **Java (Swing)** criada para resolver e simular numericamente o **Problema 71 do Capítulo 27 do livro Fundamentos de Física (Halliday & Resnick)**, que aborda circuitos de corrente contínua e as Leis de Kirchhoff.
 
